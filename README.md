@@ -36,5 +36,6 @@ npm run dev
 Open `http://localhost:5173`
 
 ## Sample Data
-Upload the included `test_data.csv` to try it out — contains simulated brake pressure
-data with two injected fault spikes at timestamps 3 and 9.
+Test datasets are included in the `data/` folder:
+
+- **`d1_braketest_data_v1.csv`** — Simple 12-row brake pressure signal with 2 injected spikes. Good for quick testing.
