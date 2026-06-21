@@ -3,7 +3,6 @@
 A full-stack web application for visualizing and detecting anomalies in vehicle CAN bus time-series data.
 
 ![CAN Signal Dashboard V2](assets/v2_wheel_slip_dashboard.png)
-![CAN Signal Dashboard V1](assets/v1_braketest_can_dashboard.png)
 
 ## What it does
 - Upload any vehicle CAN log CSV
